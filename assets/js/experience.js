@@ -6,14 +6,14 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Laravel Intern",
-    cardImage: "assets/images/experience-page/clickandpressimagr.jpg",
+    cardImage: "assets/images/experience-page/clickandpressimage.jpg",
     place: "Click & Press Pvt Ltd",
     time: "(Nov, 2021 - Jan, 2022)",
     desp: "<li>Helped senior Software Developer to build a real world projects in LARAVEL.</li> <li>Made a fully dynamic landing page for various products.</li> <li>Developed a Pizza ordering web application with the use of PHP, Javascript in LARAVEL.</li>",
   },
   {
     title: "Junior Backend Developer",
-    cardImage: "assets/images/experience-page/clickandpressimage.png",
+    cardImage: "assets/images/experience-page/clickandpressimage.jpg",
     place: "Click & Press Pvt Ltd",
     time: "(Feb, 2022 - present)",
     desp: "<li>Worked in a real CMS project for API development by using NEST JS.</li><li>Supported team members to develop a backend application.</li><li>Deployed and run CMS project live by following all the good practices with the help of senior programmers.</li>",
